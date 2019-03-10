@@ -1,0 +1,26 @@
+{
+  "name": "browser-sync-demo",
+  "version": "1.0.0",
+  "description": "browser sync ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianyk/browser-sync-demo.git"
+  },
+  "keywords": [
+    "browser",
+    "sync"
+  ],
+  "author": "tyk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tianyk/browser-sync-demo/issues"
+  },
+  "homepage": "https://github.com/tianyk/browser-sync-demo#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}
